@@ -1,7 +1,7 @@
-c6f5997ab932f82c403dc500d99fbc8f *DESCRIPTION
+17404fe998b92f4d879be528f12dabcf *DESCRIPTION
 122634ba681ce9c64b6f6d4aeef4bf0c *NAMESPACE
 25a48aeef01b586a3cee05cc1edc82c5 *R/rweather.r
-0a9eb3506b480367385e017123c84fdf *man/getCountriesFromGoogle.Rd
-4d792792bcba0deb51443bb24bc4aeaf *man/getWeatherFromGoogle.Rd
-dd7fc51733a8bab1710f2d9f97963c71 *man/getWeatherFromNOAA.Rd
-d5077a24d5bb135fa22987b51fec3415 *man/getWeatherFromYahoo.Rd
+db4877fb866df89fa0e921a98f40119b *man/getCountriesFromGoogle.Rd
+4691da1289f9254087df6b97b3ed1665 *man/getWeatherFromGoogle.Rd
+047083f2e86c4df2d2a481ddd0a49fcb *man/getWeatherFromNOAA.Rd
+323af7be910d81c2046598bd86b73af4 *man/getWeatherFromYahoo.Rd
